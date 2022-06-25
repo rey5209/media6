@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "TODAY | Season 2 | June 24, 2022 ",
+    "tittle" : "UPDATES | Season 2 | June 25, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=o6Ysq62eCXg"
+        "link" : "https://www.youtube.com/watch?v=3L8KncQiA5s"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/1VbspMiDA"
+        "link" : "https://fb.me/e/2knCZZbgw"
       }
 
     ],
@@ -40,16 +40,14 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Bulacan South",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Isabela South",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Western Samar",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Bongabong, Oriental Mindoro",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Tokyo, Japan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Palawan North",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Mindoro Oriental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Misamis Occidental",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
