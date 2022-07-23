@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | July 16, 2022 ",
+    "tittle" : "UPDATES | Season 2 | July 23, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=vnSMEWw69Gw"
+        "link" : "https://www.youtube.com/watch?v=sJn8saMaJjw"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1083897419204231/"
+        "link" : "https://www.facebook.com/events/2851282038506396/"
       }
 
     ],
@@ -40,17 +40,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Metro Manila East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Davao De Oro",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Washington, D.C",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Southern Ontario",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"La Union",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Bongabong, Oriental Mindoro",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"UAE South",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"United Kingdom",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Sto.Tomas, Pangasinan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Sta. Rosa, Nueva Ecija",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
