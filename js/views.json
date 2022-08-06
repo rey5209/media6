@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | July 23, 2022 ",
+    "tittle" : "UPDATES | Season 2 | August 6, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -40,15 +40,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Bongabong, Oriental Mindoro",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"UAE South",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"United Kingdom",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Naga City, Camarines Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Macau",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Florida",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
-      {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Sta. Rosa, Nueva Ecija",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
