@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | August 6, 2022 ",
+    "tittle" : "UPDATES | Season 2 | August 13, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=PWaop_psO5M"
+        "link" : "https://www.youtube.com/watch?v=pFPlTv4WDPc"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/806356220733604/"
+        "link" : "https://fb.me/e/3yUNALrT3"
       }
 
     ],
@@ -40,9 +40,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Naga City, Camarines Sur",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Macau",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Florida",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Cavite",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Manitoba",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Orange County, California",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Hong Kong",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
