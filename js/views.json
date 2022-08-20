@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | August 13, 2022 ",
+    "tittle" : "UPDATES | Season 2 | August 20, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=pFPlTv4WDPc",
+        "link" : "https://www.youtube.com/watch?v=tdhJzjCZIaQ",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://fb.me/e/3yUNALrT3",
+        "link" : "https://www.facebook.com/events/1244359069727735/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,10 +46,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Cavite",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Manitoba",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Orange County, California",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Hong Kong",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Central",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Eastern Samar",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Rizal",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Macau",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
