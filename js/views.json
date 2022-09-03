@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | August 27, 2022 ",
+    "tittle" : "UPDATES | Season 2 | September 3, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=onxnERvk2fM",
+        "link" : "https://www.youtube.com/watch?v=wTLwSZ24DbI",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1106319503319700/",
+        "link" : "https://www.facebook.com/events/467432391960307/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,15 +46,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Australia West",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Catanduanes",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Lanao",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Hong Kong",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Zamboanga Del Sur",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Sta. Rosa, Nueva Ecija",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
   
       
-      {"lokal":" ",         "divider":true , "divider_title":"Special Report", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":" ",         "divider":true , "divider_title":"INCinema Awards", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Metro Manila East",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Region 2",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
