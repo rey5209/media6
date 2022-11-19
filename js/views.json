@@ -2,11 +2,12 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "UPDATES | Season 2 | November 5, 2022 ",
+    "tittle" : "UPDATES | November 19, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
     "image" : "INC-Central-Temple-2.jpg",
+    "embed_link" : false, 
     "link" : "https://www.youtube.com", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
@@ -23,7 +24,8 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=GLTiPKIhxM0",
+        "embed_link" : true,
+        "link" : "ntaSh-ZyjsA",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +36,8 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/421894726629299/",
+        "embed_link" : false,
+        "link" : "https://www.facebook.com/events/1937170486476636/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,13 +49,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"CAMANAVA",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Caribbean",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Nagoya, Japan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"New York",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Alaminos City, Pangasinan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
-  
-      
-      {"lokal":" ",         "divider":true , "divider_title":"Special Report: EVM Awards", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
       {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
