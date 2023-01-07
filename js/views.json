@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "CFO_Updates.gif",
-    "tittle" : "CFO Updates | December 24, 2022 ",
+    "tittle" : "CFO Updates | January 7, 2023 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -25,7 +25,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
         "embed_link" : true,
-        "link" : "7POniUGHBvM",
+        "link" : "01UP3KwZvOE",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -37,7 +37,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://www.facebook.com/events/568653198463971/",
+        "link" : "https://fb.me/e/2yrLy4Xel",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -49,10 +49,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Bulacan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"San Diego County, California",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"New Jersey",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Northern Midwest",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Camanava",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Romblon",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Palayan City, Nueva Ecija",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Taiwan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
       {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
